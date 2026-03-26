@@ -1,1 +1,1 @@
-int
+inst
